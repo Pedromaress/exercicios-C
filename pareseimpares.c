@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*Escreva uma funÁ„o em Linguagem C que receba um vetor de inteiros de
-qualquer tamanho, verifique quais elementos desse vetor s„o pares e quais
-s„o impares, retorne, para a funÁ„o chamadora, um vetor contendo sÛ os
-pares e outro vetor contendo sÛ os impares.*/
+/*Escreva uma fun√ß√£o em Linguagem C que receba um vetor de inteiros de
+qualquer tamanho, verifique quais elementos desse vetor s√£o pares e quais
+s√£o impares, retorne, para a fun√ß√£o chamadora, um vetor contendo s√≥ os
+pares e outro vetor contendo s√≥ os impares.*/
 void funcao(int a, int *vet, int *par, int *imp,int *qtd_par,int *qtd_imp)
 {
     int i,j=0,k=0;
